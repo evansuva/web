@@ -12,6 +12,11 @@ html, p, nav, section, article {
 pre {
     padding: 0;
 }
+
+.wide {
+  width: 825px;
+}
+
 p {
 	color: #2d303b;
 }
@@ -454,14 +459,16 @@ nav#TableOfContents li {
 
 /* Footer */
 .footer {
+    width: 600px;
     text-align: center;
     padding: 1rem 0;
-    font-weight: 100;
+    font-weight: 300;
     color: #aeaeae;
     font-size: 0.7rem;
+    line-height: 14px;
 }
 .footer a, .footer p {
-	color: #ae4efe;
+	color: #333;
 }
 .footer a {
 	text-decoration: none;
@@ -491,7 +498,7 @@ hr.thin {
 	border: 0;
 	color: #eee;
 	background-color: #eee;
-	width: 90%;
+	width: 100%;
 }
 
 @media (max-width: 1024px) {
@@ -540,19 +547,49 @@ hr.thin {
     background:yellow;
 }
 
+.icomment
+{
+   margin-top: 5px;
+   margin-left: 20px;
+   margin-right: 20px;
+   margin-bottom: 10px;
+}
+
+.excerpt
+{
+   margin-top: 5px;
+   margin-left: 20px;
+   margin-right: 20px;
+   margin-bottom: 10px;
+   font-style: italic;
+   color: #666;
+}
+
 .rightbar
 {
    position:absolute;
    float:right;
-   left:1025px;
+   left:1050px;
    width:250px;
+}
+
+.leftalign
+{ 
+   float: left;
+   text-align: left;
+}
+
+.rightalign
+{
+   float: right;
+   text-align: right;
 }
 
 .rightbar12
 {
    position:absolute;
    float:right;
-   left:1025px;
+   left:1050px;
    width:250px;
    font-size:1.0rem;
 }
@@ -562,7 +599,7 @@ hr.thin {
 {
    position:absolute;
    float:right;
-   left:1025px;
+   left:1050px;
    width:250px;
    margin-top:-100px;
    text-align:left;
@@ -575,7 +612,7 @@ hr.thin {
 {
    position:absolute;
    float:right;
-   left:1030px;
+   left:1045px;
    width:240px;
    text-align:center;
    font-weight:300;

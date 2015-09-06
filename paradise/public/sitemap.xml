@@ -2,48 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/paradise/</loc>
+    <loc>http://www.cs.virginia.edu/evans/paradise/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/paradise/administrators/</loc>
+    <loc>http://www.cs.virginia.edu/evans/paradise/administrators/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/paradise/conventions/</loc>
+    <loc>http://www.cs.virginia.edu/evans/paradise/conventions/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/paradise/advising/</loc>
+    <loc>http://www.cs.virginia.edu/evans/paradise/advising/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/paradise/others/</loc>
+    <loc>http://www.cs.virginia.edu/evans/paradise/welcome/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/paradise/welcome/</loc>
+    <loc>http://www.cs.virginia.edu/evans/paradise/advice/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/paradise/advice/</loc>
+    <loc>http://www.cs.virginia.edu/evans/paradise/time/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/paradise/time/</loc>
+    <loc>http://www.cs.virginia.edu/evans/paradise/teaching/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/paradise/teaching/</loc>
+    <loc>http://www.cs.virginia.edu/evans/paradise/research/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/paradise/research/</loc>
+    <loc>http://www.cs.virginia.edu/evans/paradise/turing/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/paradise/turing/</loc>
+    <loc>http://www.cs.virginia.edu/evans/paradise/video/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.cs.virginia.edu/evans/paradise/others/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.cs.virginia.edu/evans/paradise/comments/</loc>
   </url>
   
 </urlset>

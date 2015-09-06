@@ -12,6 +12,11 @@ html, p, nav, section, article {
 pre {
     padding: 0;
 }
+
+.wide {
+  width: 825px;
+}
+
 p {
 	color: #2d303b;
 }
@@ -133,6 +138,7 @@ h2.brand-group {
 .nav-item {
     zoom: 1;
 }
+
 .nav-item a {
     background: transparent;
     color: #fff;
@@ -142,6 +148,31 @@ h2.brand-group {
     margin-right: 0.1rem;
     line-height: 1.5rem;
 }
+
+.nav-sub-item {
+    zoom: 0.8;
+    color: #aaa;
+    font-size: 0.8rem;
+    text-decoration: none;
+    margin-right: 1.0rem;
+    line-height: 1.5rem;
+}
+
+.nav-sub-item a {
+    background: transparent;
+    color: #aaa;
+    margin-top: 1rem;
+    font-size: 0.8rem;
+    text-decoration: none;
+    margin-right: 1.0rem;
+    line-height: 1.5rem;
+}
+
+.nav-sub-item-selected {
+    font-weight: 600;
+    color: #faa;
+}
+
 .nav-item a:hover,
 .nav-item a:focus {
     text-decoration: none;
@@ -150,6 +181,7 @@ h2.brand-group {
         font-weight: 600;
         color: $28E540;
 }
+
         
 .nav-item-separator {
 	font-weight: 100;
@@ -427,14 +459,16 @@ nav#TableOfContents li {
 
 /* Footer */
 .footer {
+    width: 600px;
     text-align: center;
     padding: 1rem 0;
-    font-weight: 100;
+    font-weight: 300;
     color: #aeaeae;
     font-size: 0.7rem;
+    line-height: 14px;
 }
 .footer a, .footer p {
-	color: #ae4efe;
+	color: #333;
 }
 .footer a {
 	text-decoration: none;
@@ -464,7 +498,7 @@ hr.thin {
 	border: 0;
 	color: #eee;
 	background-color: #eee;
-	width: 90%;
+	width: 100%;
 }
 
 @media (max-width: 1024px) {
@@ -513,12 +547,51 @@ hr.thin {
     background:yellow;
 }
 
+.icomment
+{
+   margin-top: 5px;
+   margin-left: 20px;
+   margin-right: 20px;
+   margin-bottom: 10px;
+}
+
+.excerpt
+{
+   margin-top: 5px;
+   margin-left: 20px;
+   margin-right: 20px;
+   margin-bottom: 10px;
+   font-style: italic;
+   color: #666;
+}
+
 .rightbar
 {
    position:absolute;
    float:right;
    left:1025px;
    width:250px;
+}
+
+.leftalign
+{ 
+   float: left;
+   text-align: left;
+}
+
+.rightalign
+{
+   float: right;
+   text-align: right;
+}
+
+.rightbar12
+{
+   position:absolute;
+   float:right;
+   left:1025px;
+   width:250px;
+   font-size:1.0rem;
 }
 
 
@@ -593,13 +666,13 @@ hr.thin {
 }
 
 .typewriter {
-   font-family:'Cutive Mono', sans-serif;
-   font-size: 12pt;
-   font-weight: 120;
+   font-family:'Special Elite', sans-serif;
+   font-size: 13pt;
+   font-weight: 400;
 }
 
 .typewriterbig {
-   font-family:'Cutive Mono', sans-serif;
+   font-family:'Special Elite', sans-serif;
    font-size: 16pt;
    font-weight: 1000;
 }
@@ -615,6 +688,10 @@ hr.thin {
 #main {
    width: 600px;
    font-size: 14pt;
+}
+
+#disqus-thread {
+
 }
 
 a.button_accent{margin:30px 30px;padding:10px 10px;display:inline-block;border:3px solid #0e94ec;border-radius:10px;-moz-border-radius:10px;-webkit-border-radius:10px;text-transform:uppercase;color:#0e94ec;font-size:17px;font-weight:400;}

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>How to Live in Paradise</title>
-    <link>http://localhost:1313/paradise/</link>
+    <link>http://www.cs.virginia.edu/evans/paradise/</link>
     <description>Recent content on How to Live in Paradise</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/paradise/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.cs.virginia.edu/evans/paradise/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://localhost:1313/paradise/administrators/</link>
+      <link>http://www.cs.virginia.edu/evans/paradise/administrators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/paradise/administrators/</guid>
+      <guid>http://www.cs.virginia.edu/evans/paradise/administrators/</guid>
       <description>
 
 &lt;h1 id=&#34;how-to-administer-administrators:895aab9d9861ff39e49a42699223346a&#34;&gt;How to Administer Administrators&lt;/h1&gt;
@@ -33,10 +33,10 @@ alt=&#34;Entitlements&#34;&gt;
     
     <item>
       <title></title>
-      <link>http://localhost:1313/paradise/conventions/</link>
+      <link>http://www.cs.virginia.edu/evans/paradise/conventions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/paradise/conventions/</guid>
+      <guid>http://www.cs.virginia.edu/evans/paradise/conventions/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://homepages.cs.ncl.ac.uk/brian.randell/NATO/nato1969.PDF&#34;&gt;http://homepages.cs.ncl.ac.uk/brian.randell/NATO/nato1969.PDF&lt;/a&gt;
 Dijkstra&amp;rsquo;s list on page 10!&lt;/p&gt;
 
@@ -82,10 +82,10 @@ we can play, and that is what allows our natural creativity to surface.&amp;rdqu
     
     <item>
       <title></title>
-      <link>http://localhost:1313/paradise/advising/</link>
+      <link>http://www.cs.virginia.edu/evans/paradise/advising/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/paradise/advising/</guid>
+      <guid>http://www.cs.virginia.edu/evans/paradise/advising/</guid>
       <description>
 
 &lt;p&gt;&lt;a href=&#34;http://scienceblogs.com/thescian/2008/03/11/what-are-worthwhile-problems-f/&#34;&gt;http://scienceblogs.com/thescian/2008/03/11/what-are-worthwhile-problems-f/&lt;/a&gt;&lt;/p&gt;
@@ -331,34 +331,11 @@ complete independence.&amp;rdquo;&lt;/p&gt;
     </item>
     
     <item>
-      <title></title>
-      <link>http://localhost:1313/paradise/others/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/paradise/others/</guid>
-      <description>&lt;p&gt;This essay was largely inspired by Radhika Nagpal&amp;rsquo;s excellent essay
-&lt;a href=&#34;http://blogs.scientificamerican.com/guest-blog/2013/07/21/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/&#34;&gt;&lt;em&gt;The Awesomest 7-Year Postdoc or: How I Learned to Stop Worrying and
-Love the Tenure-Track Faculty
-Life&lt;/em&gt;&lt;/a&gt;.
-I didn&amp;rsquo;t do a post-doc, though, and believe most post-docs are very far
-from paradise, so have a somewhat different perspective than she does
-(although we were classmates as undergraduates!).&lt;/p&gt;
-
-&lt;p&gt;committee vs. individual
-only committee to produce something wonderful - Algol
-&lt;a href=&#34;http://vanemden.wordpress.com/2014/06/18/how-recursion-got-into-programming-a-comedy-of-errors-3/&#34;&gt;http://vanemden.wordpress.com/2014/06/18/how-recursion-got-into-programming-a-comedy-of-errors-3/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Jeffrey Ullman, &lt;a href=&#34;http://cacm.acm.org/magazines/2009/3/21781-advising-students-for-success/fulltext&#34;&gt;&lt;em&gt;Advising Students for
-Success&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Welcome to Paradise!</title>
-      <link>http://localhost:1313/paradise/welcome/</link>
+      <link>http://www.cs.virginia.edu/evans/paradise/welcome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/paradise/welcome/</guid>
+      <guid>http://www.cs.virginia.edu/evans/paradise/welcome/</guid>
       <description>
 
 &lt;div id=&#34;paradise&#34;&gt;
@@ -464,10 +441,10 @@ to Ignore Advice&amp;nbsp;&amp;rarr;&lt;/a&gt;
     
     <item>
       <title>How to Ignore Advice</title>
-      <link>http://localhost:1313/paradise/advice/</link>
+      <link>http://www.cs.virginia.edu/evans/paradise/advice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/paradise/advice/</guid>
+      <guid>http://www.cs.virginia.edu/evans/paradise/advice/</guid>
       <description>
 
 &lt;div id=&#34;photohead&#34;&gt;
@@ -559,7 +536,7 @@ your own.  This mostly applies to advice you may receive from
 administrators, whose goals or values may not be well-aligned with yours.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;See &lt;a href=&#34;http://localhost:1313/paradise/paradise/others/&#34;&gt;Other Advice&lt;/a&gt; for links to some advice from
+&lt;p&gt;See &lt;a href=&#34;http://www.cs.virginia.edu/evans/paradise/evans/paradise/others/&#34;&gt;Other Advice&lt;/a&gt; for links to some advice from
 othe individuals that I think is particularly worth reading.&lt;/p&gt;
 
 &lt;h3 id=&#34;why-you-shouldn-t-listen-to-me:7e88da48c1ab1067dbe244fe61fdff60&#34;&gt;Why You Shouldn&amp;rsquo;t Listen to Me&lt;/h3&gt;
@@ -659,10 +636,10 @@ sort of thing) to discuss it further.&lt;/p&gt;&lt;/li&gt;
     
     <item>
       <title>How to Spend Your Time</title>
-      <link>http://localhost:1313/paradise/time/</link>
+      <link>http://www.cs.virginia.edu/evans/paradise/time/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/paradise/time/</guid>
+      <guid>http://www.cs.virginia.edu/evans/paradise/time/</guid>
       <description>
 
 &lt;div id=&#34;photohead&#34;&gt;
@@ -999,10 +976,10 @@ and &lt;a href=&#34;http://en.wikipedia.org/wiki/Isaac_Newton&#34;&gt;Isaac&amp;
     
     <item>
       <title>How to Be an Extraordinary Teacher</title>
-      <link>http://localhost:1313/paradise/teaching/</link>
+      <link>http://www.cs.virginia.edu/evans/paradise/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/paradise/teaching/</guid>
+      <guid>http://www.cs.virginia.edu/evans/paradise/teaching/</guid>
       <description>
 
 &lt;div id=&#34;photohead&#34;&gt;
@@ -1021,7 +998,7 @@ research record.&lt;/p&gt;
 
 &lt;p&gt;So, if the only thing that matters to you is getting tenure, you should
 aim to teach at a level just above the &amp;ldquo;threshold of embarrassment&amp;rdquo;, and
-&lt;a href=&#34;http://localhost:1313/paradise/paradise/research/&#34;&gt;skip the rest of this section&lt;/a&gt;.  Hopefully,
+&lt;a href=&#34;http://www.cs.virginia.edu/evans/paradise/evans/paradise/research/&#34;&gt;skip the rest of this section&lt;/a&gt;.  Hopefully,
 however, you came to a university because you want to teach, and will
 find teaching to be the most rewarding, fulfilling, and impactful aspect
 of your career.&lt;/p&gt;
@@ -1110,7 +1087,7 @@ important they are.  This is cruel and misguided.&lt;/p&gt;
   down&lt;/a&gt;)
   is to spend about 2 hours of preparation time for each hour of class
   time.  This is probably good advice if your goal is to be squarely in
-  the &amp;ldquo;&lt;a href=&#34;http://localhost:1313/paradise/paradise/time/#how-to-be-mediocre-not:eefdcd66b28c2b86ef84bba398f2d59a&#34;&gt;trough of mediocrity&lt;/a&gt;&amp;rdquo; (and, probably
+  the &amp;ldquo;&lt;a href=&#34;http://www.cs.virginia.edu/evans/paradise/evans/paradise/time/#how-to-be-mediocre-not:eefdcd66b28c2b86ef84bba398f2d59a&#34;&gt;trough of mediocrity&lt;/a&gt;&amp;rdquo; (and, probably
   wasting time, since a lecture you spent 15-60 minutes preparing would
   probably get over the embarrassment threshold, and may well be better
   than the one you spend 2 hours preparing).&lt;/p&gt;
@@ -1345,10 +1322,10 @@ from immediate value for your classroom students.&lt;/p&gt;
     
     <item>
       <title>How to Be a Remarkable Researcher</title>
-      <link>http://localhost:1313/paradise/research/</link>
+      <link>http://www.cs.virginia.edu/evans/paradise/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/paradise/research/</guid>
+      <guid>http://www.cs.virginia.edu/evans/paradise/research/</guid>
       <description>
 
 &lt;div id=&#34;photohead&#34;&gt;
@@ -1401,7 +1378,7 @@ research papers and learning from them what makes a paper great.  Hardly
 anyone ever reads exemplary proposals, largely because proposals tend to
 be kept secret so it is hard to find ones to read.&lt;/p&gt;
 
-&lt;p&gt;I would encourage everyone to at least read the &lt;a href=&#34;http://localhost:1313/paradise/paradise/turing/&#34;&gt;&lt;strong&gt;proposal Alan Turing
+&lt;p&gt;I would encourage everyone to at least read the &lt;a href=&#34;http://www.cs.virginia.edu/evans/paradise/evans/paradise/turing/&#34;&gt;&lt;strong&gt;proposal Alan Turing
 and three colleagues at Bletchly Park wrote to Winston
 Churchill&lt;/strong&gt;&lt;/a&gt; to obtain support for cryptanalysis
 work during World War II.  (I&amp;rsquo;ve annotated the proposal with some
@@ -1415,13 +1392,13 @@ must be in an NSF proposal and how it must be formatted have changed
 since these proposals):&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Automated Security Testing for Applications Integrating Third-Party Services&lt;/em&gt; [&lt;a href=&#34;http://localhost:1313/paradise/docs/satc-scan.pdf&#34;&gt;PDF&lt;/a&gt;]
+&lt;li&gt;&lt;em&gt;Automated Security Testing for Applications Integrating Third-Party Services&lt;/em&gt; [&lt;a href=&#34;http://www.cs.virginia.edu/evans/paradise/docs/satc-scan.pdf&#34;&gt;PDF&lt;/a&gt;]
  (with Yuchen Zhou (PhD Student); &lt;a href=&#34;http://www.rematchr.org/project/1422332&#34;&gt;NSF Secure and Trustworthy Cyberspace 2013&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Practical Secure Two-Party Computation: Techniques, Tools, and Applications&lt;/em&gt; [&lt;a href=&#34;http://localhost:1313/paradise/docs/mpc.pdf&#34;&gt;PDF&lt;/a&gt;]
+&lt;li&gt;&lt;em&gt;Practical Secure Two-Party Computation: Techniques, Tools, and Applications&lt;/em&gt; [&lt;a href=&#34;http://www.cs.virginia.edu/evans/paradise/docs/mpc.pdf&#34;&gt;PDF&lt;/a&gt;]
  (with Yan Huang (PhD Student), Aaron Mackey, abhi shelat, Michael Hicks, Jonathan Katz, Steven Myers; &lt;a href=&#34;http://www.rematchr.org/project/1111781&#34;&gt;NSF Trustworthy Computing 2011&lt;/a&gt;)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Implementable Privacy and Security for Resource-Constrained Devices&lt;/em&gt; [&lt;a href=&#34;http://localhost:1313/paradise/docs/implementablesecurity-packaged.pdf&#34;&gt;PDF&lt;/a&gt;]
+&lt;li&gt;&lt;em&gt;Implementable Privacy and Security for Resource-Constrained Devices&lt;/em&gt; [&lt;a href=&#34;http://www.cs.virginia.edu/evans/paradise/docs/implementablesecurity-packaged.pdf&#34;&gt;PDF&lt;/a&gt;]
  (with Karsten Nohl (PhD Student), Benton Calhoun, John Lach, and abhi shelat; &lt;a href=&#34;http://www.rematchr.org/project/0831426&#34;&gt;NSF Trustworthy Computing 2008&lt;/a&gt;)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Programming the Swarm&lt;/em&gt; [&lt;a href=&#34;http://localhost:1313/paradise/docs/career.pdf&#34;&gt;PDF&lt;/a&gt;]
+&lt;li&gt;&lt;em&gt;Programming the Swarm&lt;/em&gt; [&lt;a href=&#34;http://www.cs.virginia.edu/evans/paradise/docs/career.pdf&#34;&gt;PDF&lt;/a&gt;]
  (&lt;a href=&#34;http://www.rematchr.org/project/0092945&#34;&gt;NSF CAREER 2000&lt;/a&gt;) (This is very far from being a model proposal, but it did somehow get funded.  It was the first proposal I wrote, and gives some idea of how far outside one&amp;rsquo;s previous work a CAREER proposal can be.)&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -1645,6 +1622,14 @@ communities, but not impossible.&lt;/p&gt;
   afraid to let students work on things you don&amp;rsquo;t know much about, just
   expect them to enough to convince you it is worthwhile and
   interesting.&lt;/p&gt;
+
+&lt;footer&gt;
+&lt;center&gt;
+&lt;a href=&#34;../video&#34; class=&#34;button_accent&#34;&gt;Video&lt;/a&gt; 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&lt;a href=&#34;../others&#34; class=&#34;button_accent&#34;&gt;Others&lt;/a&gt; 
+&lt;/center&gt;
+&lt;/footer&gt;
 &lt;div class=&#34;footnotes&#34;&gt;
 
 &lt;hr /&gt;
@@ -1661,10 +1646,10 @@ communities, but not impossible.&lt;/p&gt;
     
     <item>
       <title>Turing&#39;s Proposal</title>
-      <link>http://localhost:1313/paradise/turing/</link>
+      <link>http://www.cs.virginia.edu/evans/paradise/turing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/paradise/turing/</guid>
+      <guid>http://www.cs.virginia.edu/evans/paradise/turing/</guid>
       <description>
 
 &lt;h1 id=&#34;letter-to-winson-churchill:dfc7493873bf2f3334158ec44e84faab&#34;&gt;Letter to Winson Churchill&lt;/h1&gt;
@@ -1838,6 +1823,283 @@ and report to me that this had been done.&amp;rdquo;&lt;/em&gt;&lt;/span&gt;&lt;
 &lt;a href=&#34;../research#how-to-raise-funds&#34; class=&#34;button_accent&#34;&gt;Return:&amp;nbsp;&amp;nbsp;&amp;nbsp;Research&amp;nbsp;&amp;rarr;&lt;/a&gt;
 &lt;/center&gt;
 &lt;/footer&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>http://www.cs.virginia.edu/evans/paradise/video/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.cs.virginia.edu/evans/paradise/video/</guid>
+      <description>&lt;div class=&#34;wide&#34;&gt;
+
+&lt;center&gt;
+Video and Slides from &lt;a
+href=&#34;https://www.usenix.org/conference/usenixsecurity14/birds-feather-sessions#colloquium&#34;&gt;USENIX
+Security 2014 Doctoral Colloquium&lt;/a&gt;&lt;br&gt;
+(&lt;a href=&#34;https://www.usenix.org/conference/usenixsecurity14/summit-program/presentation/how-live-paradise-pearls-wisdom-new-and&#34;&gt;USENIX Site&lt;/a&gt;)&lt;br&gt;
+21 August 2014
+&lt;p&gt;
+&lt;p&gt;
+&lt;video src=&#34;https://2459d6dc103cb5933875-c0245c5c937c5dedcca3f1764ecc9b2f.ssl.cf2.rackcdn.com/sec14/evans.mp4&#34; controls width=&#34;800&#34;&gt;
+&lt;/video&gt;
+&lt;/center&gt;
+
+&lt;center&gt;
+&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/38542788&#34;
+width=&#34;800&#34; height=&#34;635&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; border=4
+marginheight=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+&lt;p&gt;
+
+   &lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Curated Advice from Others</title>
+      <link>http://www.cs.virginia.edu/evans/paradise/others/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.cs.virginia.edu/evans/paradise/others/</guid>
+      <description>
+
+&lt;h3 id=&#34;my-other-advice-pages:77923aeb530cb6e499cb0ad0da0096f1&#34;&gt;My Other Advice Pages&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.cs.virginia.edu/evans/advice/prospective.html&#34;&gt;Advice for Prospective Research Students on Contacting Potential Advisors&lt;/a&gt;
+   &lt;div class=&#34;icomment&#34;&gt;
+Mostly not relevant for new faculty, but you may want to have a similar
+page with your suggestions for students to contact you.  It saves a lot
+of time to be able to point people who send you emails to a URL.  (This
+is actually the most visited page on my personal website, getting
+several thousand visits a month.)&lt;/p&gt;
+
+&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.cs.virginia.edu/evans/talks/metatalk/&#34;&gt;Advice on Giving Talks&lt;/a&gt;
+   &lt;div class=&#34;icomment&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;One of the hardest things about becoming a professor is it gets much
+harder to get any real feedback on talks (unlike your students, who
+should be frequently giving talks and getting a lot of feedback from you
+on them).  If you can find a mentor who can give you useful feedback on
+talks (including lectures), you are very lucky and should take advantage
+of this.&lt;/p&gt;
+
+&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.cs.virginia.edu/evans/advice&#34;&gt;Collected Advice for Students&lt;/a&gt;
+   &lt;div class=&#34;icomment&#34;&gt;
+Some of what is collected there is duplicated here, but the &lt;a href=&#34;http://www.indiana.edu/~kruschke/lab/tipping.html&#34;&gt;&lt;em&gt;Academic Tipping Guidelines&lt;/em&gt;&lt;/a&gt; only apply to students.
+   &lt;/div&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;advice-for-new-faculty:77923aeb530cb6e499cb0ad0da0096f1&#34;&gt;Advice for New Faculty&lt;/h3&gt;
+
+&lt;p&gt;This essay was largely inspired by Radhika Nagpal&amp;rsquo;s excellent essay
+&lt;a href=&#34;http://blogs.scientificamerican.com/guest-blog/2013/07/21/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/&#34;&gt;&lt;em&gt;The Awesomest 7-Year Postdoc or: How I Learned to Stop Worrying and
+Love the Tenure-Track Faculty
+Life&lt;/em&gt;&lt;/a&gt;.
+I didn&amp;rsquo;t do a post-doc, though, and believe most post-docs are very far
+from paradise, so have a somewhat different perspective than she does
+(although we were classmates as undergraduates!).&lt;/p&gt;
+
+&lt;h3 id=&#34;research:77923aeb530cb6e499cb0ad0da0096f1&#34;&gt;Research&lt;/h3&gt;
+
+&lt;p&gt;Richard Hamming&amp;rsquo;s advice on doing great research: &lt;a
+href=&#34;http://www.paulgraham.com/hamming.html&#34;&gt;&lt;em&gt;You and Your
+Research&lt;/em&gt;&lt;/a&gt; (Talk at Bellcore, 7 March 1986)
+   &lt;div class=&#34;excerpt&#34;&gt;
+Over on the other side of the dining hall was a chemistry table. I had
+worked with one of the fellows, Dave McCall; furthermore he was courting
+our secretary at the time. I went over and said, &amp;ldquo;Do you mind if I join
+you?&amp;rdquo; They can&amp;rsquo;t say no, so I started eating with them for a while. And
+I started asking, &amp;ldquo;What are the important problems of your field?&amp;rdquo; And
+after a week or so, &amp;ldquo;What important problems are you working on?&amp;rdquo; And
+after some more time I came in one day and said, &amp;ldquo;If what you are doing
+is not important, and if you don&amp;rsquo;t think it is going to lead to
+something important, why are you at Bell Labs working on it?&amp;rdquo; I wasn&amp;rsquo;t
+welcomed after that; I had to find somebody else to eat with!&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;If you do not work on an important problem, it&amp;rsquo;s unlikely you&amp;rsquo;ll do
+important work&amp;hellip;&lt;br /&gt;
+   &lt;/div&gt;
+   &lt;div class=&#34;rightnote&#34;&gt;
+This line is frequently quoted (included in &lt;a
+href=&#34;http://gradschool.unc.edu/events/hooding/2012/&#34;&gt;Levoy&amp;rsquo;s talk&lt;/a&gt;),
+and seems obviously right, but I think its wrong and dangerous!  Much
+better to work on obviously fun problems, than obviously important
+ones.  See &lt;a
+href=&#34;http://scienceblogs.com/thescian/2008/03/11/what-are-worthwhile-problems-f/&#34;&gt;Richard
+Feynman&amp;rsquo;s letter to Koichi Mano&lt;/a&gt; for a better perspective on this.
+   &lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;Marc Levoy&amp;rsquo;s &lt;a href=&#34;http://gradschool.unc.edu/events/hooding/2012/&#34;&gt;&lt;em&gt;Where do
+ disruptive ideas come from?&lt;/em&gt;&lt;/a&gt; (hooding ceremony speech at the
+ University of North Carolina)
+   &lt;div class=&#34;excerpt&#34;&gt;
+For three years I lived next door to Facebook. Literally next door. I
+ could throw a rock from my bedroom window and break a window in Mark
+ Zuckerberg&amp;rsquo;s office. They have a particular culture at Facebook: young,
+ edgy, in-your-face. Their walls are covered with graffiti and posters,
+ spray-painted in Wild West Wanted-dead-or-alive font. One of them says:
+ &amp;ldquo;Move fast, break things.&amp;rdquo;  Their offices have concrete floors, no
+ interior walls and lots of skateboards, so I imagine they do break
+ things.  My favorite poster says, &amp;ldquo;What would you do if you weren&amp;rsquo;t
+ afraid?&amp;rdquo;  Being afraid is useful. On the savannah it kept us from being
+ eaten by lions. Nevertheless, this is the message I&amp;rsquo;d like to leave you
+ with, the same message my mentor Don Greenberg gave to me. Know your
+ fears, know also what you really want, weigh the odds, and
+ occasionally, make a run for it.&lt;br /&gt;
+   &lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.bme.virginia.edu/people/schwartz.php&#34;&gt;Martin Schwartz&lt;/a&gt;&amp;rsquo; &lt;a
+href=&#34;http://jcs.biologists.org/content/121/11/1771.full&#34;&gt;&lt;em&gt;The
+importance of stupidity in scientific research&lt;/em&gt;&lt;/a&gt;
+&lt;div class=&#34;excerpt&#34;&gt;
+We don&amp;rsquo;t do a good enough job of teaching our students how to be
+productively stupid &amp;mdash; that is, if we don&amp;rsquo;t feel stupid it means
+we&amp;rsquo;re not really trying.
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;writing:77923aeb530cb6e499cb0ad0da0096f1&#34;&gt;Writing&lt;/h3&gt;
+
+&lt;p&gt;Marc Raibert&amp;rsquo;s advice on &lt;a
+href=&#34;http://www.cs.cmu.edu/~pausch/Randy/Randy/raibert.htm&#34;&gt;&lt;em&gt;Good Writing&lt;/em&gt;&lt;/a&gt;
+   &lt;div class=&#34;excerpt&#34;&gt;
+My formula for good writing is simple: once you decide that you want to
+produce good writing and that you can produce good writing, then all
+that remains is to write bad stuff, and to revise the bad stuff until it
+is good.
+   &lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;Stephen Pinker&amp;rsquo;s &lt;a
+href=&#34;http://chronicle.com/article/Why-Academics-Writing-Stinks/148989/&#34;&gt;&lt;em&gt;Why
+Academics&amp;rsquo; Writing Stinks&lt;/em&gt;&lt;/a&gt; [&lt;a href=&#34;pinker.pdf&#34;&gt;PDF with more commentary&lt;/a&gt;]
+   &lt;div class=&#34;excerpt&#34;&gt;
+Academics mindlessly cushion their prose with wads of fluff that imply
+they are not willing to stand behind what they say. Those include
+almost, apparently, comparatively, fairly, in part, nearly, partially,
+predominantly, presumably, rather, relatively, seemingly, so to speak,
+somewhat, sort of, to a certain degree, to some extent, and the
+ubiquitous I would argue. (Does that mean you would argue for your
+position if things were different, but are not willing to argue for it now?)
+   &lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;Terence Tao&amp;rsquo;s &lt;a
+href=&#34;http://terrytao.wordpress.com/advice-on-writing-papers/&#34;&gt;advice on
+writing papers&lt;/a&gt; including &lt;a
+href=&#34;http://terrytao.wordpress.com/advice-on-writing-papers/use-the-introduction-to-%E2%80%9Csell%E2%80%9D-the-key-points-of-your-paper/&#34;&gt;introductions&lt;/a&gt;:
+   &lt;div class=&#34;excerpt&#34;&gt;
+This can be as much the fault of the author as it is of the referee; it
+is incumbent on the author to state as clearly as possible what the
+merits, novelties, and ramifications of the paper are, and the fact that
+an expert in the field could read the introduction and not see these is
+a sign that the introduction is not yet of publication quality.
+   &lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;Dave Barry&amp;rsquo;s &lt;a href=&#34;http://www.miamiherald.com/living/liv-columns-blogs/dave-barry/article1928613.html&#34;&gt;advice on writing proposals&lt;/a&gt;:
+   &lt;div class=&#34;excerpt&#34;&gt;
+In writing proposals to prospective
+clients, be sure to clearly state the benefits they will receive:
+&lt;blockquote&gt;
+&lt;b&gt;WRONG:&lt;/b&gt; &amp;ldquo;I sincerely believe that it is to your advantage to accept this
+proposal.&amp;rdquo;
+&lt;p&gt;
+&lt;b&gt;RIGHT:&lt;/b&gt; &amp;ldquo;I have photographs of you naked with a squirrel.&amp;rdquo;
+&lt;/blockquote&gt;
+   &lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;James Altucher&amp;rsquo;s &lt;a
+href=&#34;http://www.jamesaltucher.com/2011/03/33-unusual-tips-to-being-a-better-writer/&#34;&gt;&lt;em&gt;33
+Unusual Tips to Being a Better Writer&lt;/em&gt;&lt;/a&gt;:
+   &lt;div class=&#34;excerpt&#34;&gt;
+&lt;b&gt;Use a lot of periods.&lt;/b&gt; Forget commas and semicolons. A period makes
+people pause. Your sentences should be strong enough that you want
+people to pause and think about it.  This will also make your sentences
+shorter. Short sentences are good.
+   &lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;Geoffrey Pullman&amp;rsquo;s anti-dote to Strunk &amp;amp;
+White: &lt;a href=&#34;http://www.lel.ed.ac.uk/~gpullum/LandOfTheFree.pdf&#34;&gt;&lt;em&gt;The
+Land of the Free and The Elements of Style&lt;/em&gt; [PDF]&lt;/a&gt;.
+   &lt;div class=&#34;excerpt&#34;&gt;
+The book&amp;rsquo;s style advice, largely vapid and obvious (&amp;ldquo;Do not overwrite&amp;rdquo;;
+&amp;ldquo;Be clear&amp;rdquo;), may do little damage; but the numerous statements about
+grammatical correctness are actually harmful. They are riddled with
+inaccuracies, uninformed by evidence, and marred by bungled analysis.
+Elements is a dogmatic bookful of bad usage advice, and the people who
+rely on it have no idea how badly off-beam its grammatical claims are.
+   &lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;Greg Mankiw also has some great advice on &lt;a
+href=&#34;http://gregmankiw.blogspot.com/2006/10/how-to-write-well.html&#34;&gt;&lt;em&gt;How
+to Write Well&lt;/em&gt;&lt;/a&gt; (a few of the points are specific to economics, since
+the advice was written for his staff preparing the Economic Report of
+the President, but nearly all of it is good advice for all writing).
+(Geoffrey
+Pullman &lt;a href=&#34;http://languagelog.ldc.upenn.edu/nll/?p=18345&#34;&gt;is not a
+  fan&lt;/a&gt;, though.)
+   &lt;div class=&#34;excerpt&#34;&gt;
+The passive voice is avoided by good writers.&lt;br&gt;
+The word &amp;ldquo;very&amp;rdquo; is very often very unnecessary.
+   &lt;/div&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;teaching:77923aeb530cb6e499cb0ad0da0096f1&#34;&gt;Teaching&lt;/h3&gt;
+
+&lt;p&gt;Paul Lockhart&amp;rsquo;s advice on teaching (focused on teaching mathematics, but
+applies to all teaching): &lt;a
+href=&#34;http://radian.org/~krstic/LockhartsLament.pdf&#34;&gt;&lt;em&gt;Lockhart&amp;rsquo;s
+Lament&lt;/em&gt;&lt;/a&gt; [PDF]
+   &lt;div class=&#34;excerpt&#34;&gt;
+Teaching is not about information. It&amp;rsquo;s about having an honest
+intellectual relationship with your students. It requires no method, no
+tools, and no training. Just the ability to be real. And if you can&amp;rsquo;t be
+real, then you have no right to inflict yourself upon innocent children.
+&amp;hellip;
+It may be true that you have to be able to read in order to fill out
+forms at the DMV, but that&amp;rsquo;s not why we teach children to read. We
+teach them to read for the higher purpose of allowing them access to
+beautiful and meaningful ideas.
+   &lt;/div&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;advising:77923aeb530cb6e499cb0ad0da0096f1&#34;&gt;Advising&lt;/h3&gt;
+
+&lt;p&gt;Jeffrey Ullman, &lt;a href=&#34;http://cacm.acm.org/magazines/2009/3/21781-advising-students-for-success/fulltext&#34;&gt;&lt;em&gt;Advising Students for
+Success&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Comments</title>
+      <link>http://www.cs.virginia.edu/evans/paradise/comments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.cs.virginia.edu/evans/paradise/comments/</guid>
+      <description>
+
+&lt;h1 id=&#34;discussion:03e7713c1e56da666eeab8dfbbf51091&#34;&gt;Discussion&lt;/h1&gt;
+
+&lt;p&gt;Please feel free to post comments here (can be anonymous if you want) or email me directly.&lt;/p&gt;
+
+&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+   var disqus_url = &#39;http://www.cs.virginia.edu/evans/paradise/comments&#39;;
+   var disqus_shortname = &#39;davidevans&#39;; // required: replace example with your forum shortname
+
+   /* * * DON&#39;T EDIT BELOW THIS LINE * * */
+   (function() {
+            var dsq = document.createElement(&#39;script&#39;); dsq.type = &#39;text/javascript&#39;; dsq.async = true;
+            dsq.src = &#39;//&#39; + disqus_shortname + &#39;.disqus.com/embed.js&#39;;
+            (document.getElementsByTagName(&#39;head&#39;)[0] ||  document.getElementsByTagName(&#39;body&#39;)[0]).appendChild(dsq);
+        })();
+    &lt;/script&gt;
+    &lt;noscript&gt;Please enable JavaScript to view
+    the &lt;a href=&#34;http://disqus.com/?ref_noscript&#34;&gt;comments powered by
+    Disqus.&lt;/a&gt;&lt;/noscript&gt;
+    &lt;a href=&#34;http://disqus.com&#34; class=&#34;dsq-brlink&#34;&gt;Comments powered by &lt;span class=&#34;logo-disqus&#34;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
 </description>
     </item>
     
